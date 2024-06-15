@@ -21,11 +21,18 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | **Total**  |                   | **R$ 51,50**    |
 ## Componentes
 1. **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
+
 2. **Ponte de diodo(Ponte retificadora)**: utilizada para que o circuito seja abastecido com a corrente em ambos ciclos da corrente alternada.
+
 3. **Capacitor**:  armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo.
+
 4. **Diodo Zener**: regulador de tensão máxima. Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 12v. Se a tensão for menor do que 12v, o Diodo não conduz e, portanto, não interfere no circuito, se for maior, deixará a corrente passar, mantendo a tensão em 12v naquele ponto. Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exatamente o valor de tensão máximo que queremos na saída da nossa fonte.
+
 5. **Resistores**: complementam o circuito de forma a limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes.
+
 6. **Potenciometro**: resistor variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
+
 7. **Transistor**: utilizado para permitir a passagem da corrente de forma ajustável.
 ## Imagem do Circuito
+
 
