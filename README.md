@@ -36,3 +36,16 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Imagem do Circuito
 ![Circuito_no_Falstad](Imagens-Circuito/Circuito-Falstad.PNG)
 
+## Cálculo do Capacitor
+![calculo](images/logo.png)
+
+## Link do circuito no Falstad:
+[Link_para_o_circuito](https://tinyurl.com/259cu76j)
+
+## Vídeo no Youtube
+[Link_do_vídeo](URL_DO_PROJET0)
+
+## Alunos:
+Juan Henriques Passos([Juan](https://github.com/JuanHPassos/Projeto-Eletronica-USP))
+Kattryel
+Marcos Cota
