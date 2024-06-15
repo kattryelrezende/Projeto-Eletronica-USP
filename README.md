@@ -46,6 +46,8 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 [Link_do_vídeo](URL_DO_PROJET0)
 
 ## Alunos:
-Juan Henriques Passos([Juan](https://github.com/JuanHPassos/Projeto-Eletronica-USP))
+Juan Henriques Passos([Juan](https://github.com/JuanHPassos))
+
 Kattryel
+
 Marcos Cota
