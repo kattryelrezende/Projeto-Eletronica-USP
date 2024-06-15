@@ -7,7 +7,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Escolha dos componentes:
 | Quantidade | Componentes       | Valor R$ |
 |------------|-------------------|----------|
-| 10         |   Resistores      | [0.50](https://exemplo.com/preco1)|
+| 10         |   Capacitor 680uF     | [0.50](https://produto.mercadolivre.com.br/MLB-1329526998-capacitor-eletrolitico-680uf-x-25v-105-10-pecas-_JM#position=1&search_layout=grid&type=item&tracking_id=e3802299-ff00-42ad-964e-d3a5aee62ea2)|
 | 5          |   Capacitores     | [1.20](https://exemplo.com/preco2)|
 | 3          | Transistores      | [2.00](https://exemplo.com/preco3)|
 | 7          | Diodos            | [0.70](https://exemplo.com/preco4)|
