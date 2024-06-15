@@ -34,5 +34,5 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 7. **Transistor**: utilizado para permitir a passagem da corrente de forma ajustável.
 ## Imagem do Circuito
-![Circuito_no_Falstad](caminho/para/imagem)
+![Circuito_no_Falstad](Projeto-Eletronica-USP/Imagens-Circuito/Circuito-Falstad.PNG)
 
