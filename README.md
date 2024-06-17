@@ -43,7 +43,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 [Link_para_o_circuito](https://tinyurl.com/259cu76j)
 
 ## Vídeo da fonte
-[Download Video](./path/to/your/video.mp4)
+[Download Video](Imagens-Circuito/video_eletronica.mp4)
 
 ## Alunos:
 Juan Henriques Passos([Juan](https://github.com/JuanHPassos))
