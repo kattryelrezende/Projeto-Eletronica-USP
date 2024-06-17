@@ -37,7 +37,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ![Circuito_no_Falstad](Imagens-Circuito/Circuito-Falstad.PNG)
 
 ## Cálculo do Capacitor
-![calculo](images/logo.png)
+![calculo](Imagens-Circuito/calculo_eletronica.jpg)
 
 ## Link do circuito no Falstad:
 [Link_para_o_circuito](https://tinyurl.com/259cu76j)
