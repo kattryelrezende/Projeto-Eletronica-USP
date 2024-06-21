@@ -36,6 +36,9 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Imagem do Circuito
 ![Circuito_no_Falstad](Imagens-Circuito/Circuito-Falstad.PNG)
 
+## Representação do circuito no Eagle
+![Circuito_no_Eagle](Imagens-Circuito/Circuito-Eagle.PNG)
+
 ## Cálculo do Capacitor
 ![calculo](Imagens-Circuito/calculo_eletronica.jpg)
 
@@ -48,6 +51,6 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Alunos:
 Juan Henriques Passos([Juan](https://github.com/JuanHPassos))
 
-Kattryel
+Kattryel Rezende([Kattryel Rezende](https://github.com/kattryelrezende))
 
 Marcos Cota ([Marcos Cota](https://github.com/Mvcart))
