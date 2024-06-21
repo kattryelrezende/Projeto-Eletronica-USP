@@ -50,4 +50,4 @@ Juan Henriques Passos([Juan](https://github.com/JuanHPassos))
 
 Kattryel
 
-Marcos Cota
+Marcos Cota ([Marcos Cota](https://github.com/Mvcart))
